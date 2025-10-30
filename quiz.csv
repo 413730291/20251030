@@ -1,0 +1,4 @@
+question,optionA,optionB,optionC,optionD,correctAnswer
+哪一個是p5.js的preload函式?,setup(),draw(),preload(),mouseClicked(),2
+p5.js用來讀取CSV檔案的函式是?,loadJSON(),loadTable(),loadStrings(),loadImage(),1
+在p5.js中，要隱藏預設游標要使用?,showCursor(),noCursor(),cursor(),hideCursor(),1
